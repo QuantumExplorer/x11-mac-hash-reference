@@ -14,6 +14,45 @@
 		FB0022781D184C2C009F3FD5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB0022761D184C2C009F3FD5 /* Main.storyboard */; };
 		FB0022831D184C2C009F3FD5 /* x11Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022821D184C2C009F3FD5 /* x11Tests.m */; };
 		FB00228E1D184C2D009F3FD5 /* x11UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00228D1D184C2D009F3FD5 /* x11UITests.m */; };
+		FB0022B41D184CC3009F3FD5 /* NSData+Blake.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00229D1D184CC3009F3FD5 /* NSData+Blake.m */; };
+		FB0022B51D184CC3009F3FD5 /* NSData+Blake.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00229D1D184CC3009F3FD5 /* NSData+Blake.m */; };
+		FB0022B61D184CC3009F3FD5 /* NSData+Blake.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00229D1D184CC3009F3FD5 /* NSData+Blake.m */; };
+		FB0022B71D184CC3009F3FD5 /* NSData+Bmw.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00229F1D184CC3009F3FD5 /* NSData+Bmw.m */; };
+		FB0022B81D184CC3009F3FD5 /* NSData+Bmw.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00229F1D184CC3009F3FD5 /* NSData+Bmw.m */; };
+		FB0022B91D184CC3009F3FD5 /* NSData+Bmw.m in Sources */ = {isa = PBXBuildFile; fileRef = FB00229F1D184CC3009F3FD5 /* NSData+Bmw.m */; };
+		FB0022BA1D184CC3009F3FD5 /* NSData+CubeHash.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A11D184CC3009F3FD5 /* NSData+CubeHash.m */; };
+		FB0022BB1D184CC3009F3FD5 /* NSData+CubeHash.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A11D184CC3009F3FD5 /* NSData+CubeHash.m */; };
+		FB0022BC1D184CC3009F3FD5 /* NSData+CubeHash.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A11D184CC3009F3FD5 /* NSData+CubeHash.m */; };
+		FB0022BD1D184CC3009F3FD5 /* NSData+Echo.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A31D184CC3009F3FD5 /* NSData+Echo.m */; };
+		FB0022BE1D184CC3009F3FD5 /* NSData+Echo.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A31D184CC3009F3FD5 /* NSData+Echo.m */; };
+		FB0022BF1D184CC3009F3FD5 /* NSData+Echo.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A31D184CC3009F3FD5 /* NSData+Echo.m */; };
+		FB0022C01D184CC3009F3FD5 /* NSData+Groestl.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A51D184CC3009F3FD5 /* NSData+Groestl.m */; };
+		FB0022C11D184CC3009F3FD5 /* NSData+Groestl.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A51D184CC3009F3FD5 /* NSData+Groestl.m */; };
+		FB0022C21D184CC3009F3FD5 /* NSData+Groestl.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A51D184CC3009F3FD5 /* NSData+Groestl.m */; };
+		FB0022C31D184CC3009F3FD5 /* NSData+Jh.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A71D184CC3009F3FD5 /* NSData+Jh.m */; };
+		FB0022C41D184CC3009F3FD5 /* NSData+Jh.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A71D184CC3009F3FD5 /* NSData+Jh.m */; };
+		FB0022C51D184CC3009F3FD5 /* NSData+Jh.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A71D184CC3009F3FD5 /* NSData+Jh.m */; };
+		FB0022C61D184CC3009F3FD5 /* NSData+Keccak.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A91D184CC3009F3FD5 /* NSData+Keccak.m */; };
+		FB0022C71D184CC3009F3FD5 /* NSData+Keccak.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A91D184CC3009F3FD5 /* NSData+Keccak.m */; };
+		FB0022C81D184CC3009F3FD5 /* NSData+Keccak.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022A91D184CC3009F3FD5 /* NSData+Keccak.m */; };
+		FB0022C91D184CC3009F3FD5 /* NSData+Luffa.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AB1D184CC3009F3FD5 /* NSData+Luffa.m */; };
+		FB0022CA1D184CC3009F3FD5 /* NSData+Luffa.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AB1D184CC3009F3FD5 /* NSData+Luffa.m */; };
+		FB0022CB1D184CC3009F3FD5 /* NSData+Luffa.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AB1D184CC3009F3FD5 /* NSData+Luffa.m */; };
+		FB0022CC1D184CC3009F3FD5 /* NSData+Shavite.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AD1D184CC3009F3FD5 /* NSData+Shavite.m */; };
+		FB0022CD1D184CC3009F3FD5 /* NSData+Shavite.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AD1D184CC3009F3FD5 /* NSData+Shavite.m */; };
+		FB0022CE1D184CC3009F3FD5 /* NSData+Shavite.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AD1D184CC3009F3FD5 /* NSData+Shavite.m */; };
+		FB0022CF1D184CC3009F3FD5 /* NSData+Simd.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AF1D184CC3009F3FD5 /* NSData+Simd.m */; };
+		FB0022D01D184CC3009F3FD5 /* NSData+Simd.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AF1D184CC3009F3FD5 /* NSData+Simd.m */; };
+		FB0022D11D184CC3009F3FD5 /* NSData+Simd.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022AF1D184CC3009F3FD5 /* NSData+Simd.m */; };
+		FB0022D21D184CC3009F3FD5 /* NSData+Skein.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022B11D184CC3009F3FD5 /* NSData+Skein.m */; };
+		FB0022D31D184CC3009F3FD5 /* NSData+Skein.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022B11D184CC3009F3FD5 /* NSData+Skein.m */; };
+		FB0022D41D184CC3009F3FD5 /* NSData+Skein.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022B11D184CC3009F3FD5 /* NSData+Skein.m */; };
+		FB0022D51D184CC3009F3FD5 /* aes_helper.c in Sources */ = {isa = PBXBuildFile; fileRef = FB0022B31D184CC3009F3FD5 /* aes_helper.c */; };
+		FB0022D61D184CC3009F3FD5 /* aes_helper.c in Sources */ = {isa = PBXBuildFile; fileRef = FB0022B31D184CC3009F3FD5 /* aes_helper.c */; };
+		FB0022D71D184CC3009F3FD5 /* aes_helper.c in Sources */ = {isa = PBXBuildFile; fileRef = FB0022B31D184CC3009F3FD5 /* aes_helper.c */; };
+		FB0022EB1D185324009F3FD5 /* NSData+Dash.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022EA1D185324009F3FD5 /* NSData+Dash.m */; };
+		FB0022EC1D185324009F3FD5 /* NSData+Dash.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022EA1D185324009F3FD5 /* NSData+Dash.m */; };
+		FB0022ED1D185324009F3FD5 /* NSData+Dash.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0022EA1D185324009F3FD5 /* NSData+Dash.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +88,32 @@
 		FB0022891D184C2D009F3FD5 /* x11UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = x11UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB00228D1D184C2D009F3FD5 /* x11UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = x11UITests.m; sourceTree = "<group>"; };
 		FB00228F1D184C2D009F3FD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB00229C1D184CC3009F3FD5 /* NSData+Blake.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Blake.h"; sourceTree = "<group>"; };
+		FB00229D1D184CC3009F3FD5 /* NSData+Blake.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Blake.m"; sourceTree = "<group>"; };
+		FB00229E1D184CC3009F3FD5 /* NSData+Bmw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Bmw.h"; sourceTree = "<group>"; };
+		FB00229F1D184CC3009F3FD5 /* NSData+Bmw.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Bmw.m"; sourceTree = "<group>"; };
+		FB0022A01D184CC3009F3FD5 /* NSData+CubeHash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+CubeHash.h"; sourceTree = "<group>"; };
+		FB0022A11D184CC3009F3FD5 /* NSData+CubeHash.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+CubeHash.m"; sourceTree = "<group>"; };
+		FB0022A21D184CC3009F3FD5 /* NSData+Echo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Echo.h"; sourceTree = "<group>"; };
+		FB0022A31D184CC3009F3FD5 /* NSData+Echo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Echo.m"; sourceTree = "<group>"; };
+		FB0022A41D184CC3009F3FD5 /* NSData+Groestl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Groestl.h"; sourceTree = "<group>"; };
+		FB0022A51D184CC3009F3FD5 /* NSData+Groestl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Groestl.m"; sourceTree = "<group>"; };
+		FB0022A61D184CC3009F3FD5 /* NSData+Jh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Jh.h"; sourceTree = "<group>"; };
+		FB0022A71D184CC3009F3FD5 /* NSData+Jh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Jh.m"; sourceTree = "<group>"; };
+		FB0022A81D184CC3009F3FD5 /* NSData+Keccak.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Keccak.h"; sourceTree = "<group>"; };
+		FB0022A91D184CC3009F3FD5 /* NSData+Keccak.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Keccak.m"; sourceTree = "<group>"; };
+		FB0022AA1D184CC3009F3FD5 /* NSData+Luffa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Luffa.h"; sourceTree = "<group>"; };
+		FB0022AB1D184CC3009F3FD5 /* NSData+Luffa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Luffa.m"; sourceTree = "<group>"; };
+		FB0022AC1D184CC3009F3FD5 /* NSData+Shavite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Shavite.h"; sourceTree = "<group>"; };
+		FB0022AD1D184CC3009F3FD5 /* NSData+Shavite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Shavite.m"; sourceTree = "<group>"; };
+		FB0022AE1D184CC3009F3FD5 /* NSData+Simd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Simd.h"; sourceTree = "<group>"; };
+		FB0022AF1D184CC3009F3FD5 /* NSData+Simd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Simd.m"; sourceTree = "<group>"; };
+		FB0022B01D184CC3009F3FD5 /* NSData+Skein.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Skein.h"; sourceTree = "<group>"; };
+		FB0022B11D184CC3009F3FD5 /* NSData+Skein.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Skein.m"; sourceTree = "<group>"; };
+		FB0022B21D184CC3009F3FD5 /* sph_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sph_types.h; sourceTree = "<group>"; };
+		FB0022B31D184CC3009F3FD5 /* aes_helper.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = aes_helper.c; sourceTree = "<group>"; };
+		FB0022E91D185324009F3FD5 /* NSData+Dash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Dash.h"; sourceTree = "<group>"; };
+		FB0022EA1D185324009F3FD5 /* NSData+Dash.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Dash.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +164,7 @@
 		FB00226A1D184C2C009F3FD5 /* x11 */ = {
 			isa = PBXGroup;
 			children = (
+				FB00229B1D184C9B009F3FD5 /* Hash */,
 				FB00226B1D184C2C009F3FD5 /* AppDelegate.h */,
 				FB00226C1D184C2C009F3FD5 /* AppDelegate.m */,
 				FB0022711D184C2C009F3FD5 /* ViewController.h */,
@@ -135,6 +201,39 @@
 				FB00228F1D184C2D009F3FD5 /* Info.plist */,
 			);
 			path = x11UITests;
+			sourceTree = "<group>";
+		};
+		FB00229B1D184C9B009F3FD5 /* Hash */ = {
+			isa = PBXGroup;
+			children = (
+				FB0022E91D185324009F3FD5 /* NSData+Dash.h */,
+				FB0022EA1D185324009F3FD5 /* NSData+Dash.m */,
+				FB00229C1D184CC3009F3FD5 /* NSData+Blake.h */,
+				FB00229D1D184CC3009F3FD5 /* NSData+Blake.m */,
+				FB00229E1D184CC3009F3FD5 /* NSData+Bmw.h */,
+				FB00229F1D184CC3009F3FD5 /* NSData+Bmw.m */,
+				FB0022A01D184CC3009F3FD5 /* NSData+CubeHash.h */,
+				FB0022A11D184CC3009F3FD5 /* NSData+CubeHash.m */,
+				FB0022A21D184CC3009F3FD5 /* NSData+Echo.h */,
+				FB0022A31D184CC3009F3FD5 /* NSData+Echo.m */,
+				FB0022A41D184CC3009F3FD5 /* NSData+Groestl.h */,
+				FB0022A51D184CC3009F3FD5 /* NSData+Groestl.m */,
+				FB0022A61D184CC3009F3FD5 /* NSData+Jh.h */,
+				FB0022A71D184CC3009F3FD5 /* NSData+Jh.m */,
+				FB0022A81D184CC3009F3FD5 /* NSData+Keccak.h */,
+				FB0022A91D184CC3009F3FD5 /* NSData+Keccak.m */,
+				FB0022AA1D184CC3009F3FD5 /* NSData+Luffa.h */,
+				FB0022AB1D184CC3009F3FD5 /* NSData+Luffa.m */,
+				FB0022AC1D184CC3009F3FD5 /* NSData+Shavite.h */,
+				FB0022AD1D184CC3009F3FD5 /* NSData+Shavite.m */,
+				FB0022AE1D184CC3009F3FD5 /* NSData+Simd.h */,
+				FB0022AF1D184CC3009F3FD5 /* NSData+Simd.m */,
+				FB0022B01D184CC3009F3FD5 /* NSData+Skein.h */,
+				FB0022B11D184CC3009F3FD5 /* NSData+Skein.m */,
+				FB0022B21D184CC3009F3FD5 /* sph_types.h */,
+				FB0022B31D184CC3009F3FD5 /* aes_helper.c */,
+			);
+			name = Hash;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,8 +366,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB0022731D184C2C009F3FD5 /* ViewController.m in Sources */,
+				FB0022C01D184CC3009F3FD5 /* NSData+Groestl.m in Sources */,
+				FB0022BA1D184CC3009F3FD5 /* NSData+CubeHash.m in Sources */,
 				FB0022701D184C2C009F3FD5 /* main.m in Sources */,
+				FB0022EB1D185324009F3FD5 /* NSData+Dash.m in Sources */,
+				FB0022C91D184CC3009F3FD5 /* NSData+Luffa.m in Sources */,
+				FB0022D21D184CC3009F3FD5 /* NSData+Skein.m in Sources */,
+				FB0022C31D184CC3009F3FD5 /* NSData+Jh.m in Sources */,
+				FB0022CF1D184CC3009F3FD5 /* NSData+Simd.m in Sources */,
+				FB0022B41D184CC3009F3FD5 /* NSData+Blake.m in Sources */,
+				FB0022C61D184CC3009F3FD5 /* NSData+Keccak.m in Sources */,
+				FB0022BD1D184CC3009F3FD5 /* NSData+Echo.m in Sources */,
+				FB0022CC1D184CC3009F3FD5 /* NSData+Shavite.m in Sources */,
+				FB0022B71D184CC3009F3FD5 /* NSData+Bmw.m in Sources */,
 				FB00226D1D184C2C009F3FD5 /* AppDelegate.m in Sources */,
+				FB0022D51D184CC3009F3FD5 /* aes_helper.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,7 +388,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB0022BE1D184CC3009F3FD5 /* NSData+Echo.m in Sources */,
+				FB0022CD1D184CC3009F3FD5 /* NSData+Shavite.m in Sources */,
+				FB0022B81D184CC3009F3FD5 /* NSData+Bmw.m in Sources */,
+				FB0022C71D184CC3009F3FD5 /* NSData+Keccak.m in Sources */,
+				FB0022EC1D185324009F3FD5 /* NSData+Dash.m in Sources */,
+				FB0022C41D184CC3009F3FD5 /* NSData+Jh.m in Sources */,
+				FB0022D01D184CC3009F3FD5 /* NSData+Simd.m in Sources */,
+				FB0022BB1D184CC3009F3FD5 /* NSData+CubeHash.m in Sources */,
+				FB0022C11D184CC3009F3FD5 /* NSData+Groestl.m in Sources */,
+				FB0022B51D184CC3009F3FD5 /* NSData+Blake.m in Sources */,
+				FB0022D31D184CC3009F3FD5 /* NSData+Skein.m in Sources */,
+				FB0022CA1D184CC3009F3FD5 /* NSData+Luffa.m in Sources */,
 				FB0022831D184C2C009F3FD5 /* x11Tests.m in Sources */,
+				FB0022D61D184CC3009F3FD5 /* aes_helper.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +409,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB0022BF1D184CC3009F3FD5 /* NSData+Echo.m in Sources */,
+				FB0022CE1D184CC3009F3FD5 /* NSData+Shavite.m in Sources */,
+				FB0022B91D184CC3009F3FD5 /* NSData+Bmw.m in Sources */,
+				FB0022C81D184CC3009F3FD5 /* NSData+Keccak.m in Sources */,
+				FB0022ED1D185324009F3FD5 /* NSData+Dash.m in Sources */,
+				FB0022C51D184CC3009F3FD5 /* NSData+Jh.m in Sources */,
+				FB0022D11D184CC3009F3FD5 /* NSData+Simd.m in Sources */,
+				FB0022BC1D184CC3009F3FD5 /* NSData+CubeHash.m in Sources */,
+				FB0022C21D184CC3009F3FD5 /* NSData+Groestl.m in Sources */,
+				FB0022B61D184CC3009F3FD5 /* NSData+Blake.m in Sources */,
+				FB0022D41D184CC3009F3FD5 /* NSData+Skein.m in Sources */,
+				FB0022CB1D184CC3009F3FD5 /* NSData+Luffa.m in Sources */,
 				FB00228E1D184C2D009F3FD5 /* x11UITests.m in Sources */,
+				FB0022D71D184CC3009F3FD5 /* aes_helper.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

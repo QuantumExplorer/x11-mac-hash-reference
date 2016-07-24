@@ -10,6 +10,21 @@
 
 @interface ViewController : NSViewController
 
+-(IBAction)blake:(id)sender;
+-(IBAction)bmw:(id)sender;
+-(IBAction)cubehash:(id)sender;
+-(IBAction)echo:(id)sender;
+-(IBAction)groestl:(id)sender;
+-(IBAction)jh:(id)sender;
+-(IBAction)keccak:(id)sender;
+-(IBAction)luffa:(id)sender;
+-(IBAction)shavite:(id)sender;
+-(IBAction)simd:(id)sender;
+-(IBAction)skein:(id)sender;
+
+@property(nonatomic,strong) IBOutlet NSTextField * input;
+@property(nonatomic,strong) IBOutlet NSTextView * output;
+@property(nonatomic,strong) IBOutlet NSButton * inputInt8;
 
 @end
 
